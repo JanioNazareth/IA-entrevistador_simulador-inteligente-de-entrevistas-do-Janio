@@ -1,21 +1,26 @@
 # IA-entrevistador_simulador-inteligente-de-entrevistas-do-Janio
 Criar um simulador inteligente de entrevistas
-# 🏎️ Sistema de Abstração de Veículos em C#
+# 🤖 Simulador Inteligente de Entrevistas Técnicas
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+O **Simulador Inteligente** é uma aplicação interativa desenvolvida para auxiliar profissionais de tecnologia a praticarem para entrevistas técnicas. O sistema simula o ambiente real de uma entrevista com foco em diferentes áreas de atuação e gestão de tempo.
 
-Este projeto foi desenvolvido como parte do desafio da **DIO (Digital Innovation One)**. O objetivo é demonstrar os pilares da Programação Orientada a Objetos (POO) aplicados a um sistema de lógica para um jogo de carros.
+![Screenshot do Simulador](./simuladorInteligenteDeEntrevistas.jpg)
 
-## 🚀 Conceitos Aplicados
-- **Classes e Objetos:** Criação de moldes e instâncias para veículos.
-- **Abstração:** Uso de classes e métodos abstratos para definir regras de negócio.
-- **Herança:** Reutilização de código entre classes Pai (Veiculo) e Filhas (Carro, Caminhão).
-- **Polimorfismo:** Sobrescrita de métodos (`virtual` e `override`) para comportamentos específicos.
-- **Interfaces:** Implementação de contratos para habilidades específicas (ex: `IEletrico`).
+## 🚀 Funcionalidades
+- **Vagas Mapeadas:** Trilhas para Frontend, Engenheiro Backend Pleno, Tech Lead e DevOps/SRE.
+- **Simulação Realista:** 4 perguntas por fase de entrevista.
+- **Gestão de Tempo:** Limite de 1 minuto para cada resposta, estimulando o raciocínio rápido.
+- **Interface Moderna:** UI focada em produtividade com tema escuro (Dark Mode).
 
-## 🛠️ Como executar
-1. Certifique-se de ter o [.NET SDK](https://dotnet.microsoft.com/download) instalado.
-2. Clone o repositório:
+## 🛠️ Tecnologias Utilizadas
+- **Linguagem:** C#
+- **Arquitetura:** Princípios de Programação Orientada a Objetos (POO), utilizando Classes Abstratas e Interfaces para garantir escalabilidade.
+
+## 🔗 Link do Aplicativo
+Acesse a versão live ou faça o download aqui:  
+👉 [**Simulador Inteligente - Live Demo**](https://seu-link-aqui.com)
+
+## 🏗️ Como Executar
+1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
